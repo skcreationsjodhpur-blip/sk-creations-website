@@ -1,10 +1,13 @@
-S.K. Creations — GitHub Pages website package
+S.K. Creations category-pages update
 
-Updated:
-- New S.K. Creations logo (logo.png)
-- Wooden Chopping Boards product galleries and WhatsApp order links
-- GST: 5% extra; shipping extra as applicable
-- Contact: +91 9468563332
-- Email: skcreationsjodhpur@gmail.com
+Upload ALL files in this folder to the ROOT of your GitHub Pages repository.
+Keep your existing CNAME file in GitHub; this package intentionally does not include or replace it.
 
-IMPORTANT: Upload ALL files in this folder to the ROOT of the GitHub repository.
+New pages:
+- index.html (category landing homepage)
+- chopping-boards.html (SK-CB-001 to SK-CB-017)
+- wooden-trays.html
+- wooden-plates.html
+- wooden-dining-set.html
+
+All chopping-board WhatsApp links point to chopping-boards.html#SK-CB-xxx.
