@@ -1,9 +1,9 @@
-S.K. CREATIONS WEBSITE
+S.K. Creations clean website package
 
-Files to upload to GitHub repository:
-- index.html
-- style.css
-- script.js
-- images folder (all files inside it)
+Category: Wooden Chopping Boards
+SK-CB-001 = Acacia Wooden Chopping Board with Paddle Handle
+SK-CB-002 = Acacia End-Grain Wooden Chopping Board with Juice Groove & Handles
 
-IMPORTANT: Keep these names and folder structure unchanged.
+Product gallery files use the matching product code. General homepage/gallery images are named site-*. This avoids confusing general images with individual product photographs.
+
+Upload all files in this folder to the ROOT of the GitHub repository.
