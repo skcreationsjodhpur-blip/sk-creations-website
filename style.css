@@ -9,3 +9,13 @@
 
 /* Behind the Craft */
 .craft-section{background:#f1ebe2}.craft-media{display:grid;grid-template-columns:1fr 1fr;gap:24px;align-items:stretch}.craft-media figure{margin:0;background:#fff;border:1px solid var(--line);overflow:hidden}.craft-photo img,.craft-video video{display:block;width:100%;height:620px;object-fit:cover;background:#1d1916}.craft-video video{object-fit:contain}.craft-media figcaption{padding:15px 18px;color:#655b52;font-size:14px}.craft-section .section-head>p{max-width:520px}@media(max-width:850px){.craft-media{grid-template-columns:1fr}.craft-photo img,.craft-video video{height:auto;max-height:70vh}.craft-video video{aspect-ratio:9/16}}
+
+/* Premium navigation typography */
+.header nav a{
+  font-family:'Cormorant Garamond', Georgia, 'Times New Roman', serif;
+  font-size:17px;
+  font-weight:600;
+  letter-spacing:.035em;
+}
+@media(max-width:1000px){.header nav a{font-size:15px}}
+@media(max-width:850px){.header nav a{font-size:19px;letter-spacing:.025em}}
